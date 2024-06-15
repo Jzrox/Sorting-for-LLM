@@ -1,1 +1,4 @@
-Data Scraper and Sorter. This program will compile code from a website in a way that can be easily inputted into an LLM algorithm.
+Data Scraper and Sorter.
+This program will compile code from a website in a way that can be easily inputted into an LLM algorithm.
+I did this to scrape wikipedia articles about frogs because my friend wanted to have a chatbot that knows about frogs.
+
